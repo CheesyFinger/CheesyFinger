@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Mohit and I'm a WebDev, from India</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs (In my life) since i born <br>📚 I'm currently learning BACKEND<br>🎯 Goals: To become a FULL STACK DEVELOPER<br>🎲 Fun fact: I want to join ARMY</p>
 
 ###
 
