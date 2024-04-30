@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohit and I'm a WebDev, from India</p>
+<p align="left">My name is Mohit and I'm a WebDev</p>
 
 ###
 
