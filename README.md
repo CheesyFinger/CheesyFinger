@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs (In my life) since i born <br>📚 I'm currently learning BACKEND<br>🎯 Goals: To become a FULL STACK DEVELOPER<br>🎲 Fun fact: Not Yet</p>
+<p align="left">✨<br>📚 I'm currently learning ...<br>🎯 Goals: To become a FULL STACK DEVELOPER<br>🎲 Fun fact: Not Yet</p>
 
 ###
 
